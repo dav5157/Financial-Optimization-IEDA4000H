@@ -5,11 +5,14 @@ Check for Final Project paper and code in the final project folder. Just got 100
 
 IEDA 4000H: Optimal Rebalancing Research
 Project Report
-HUNG Tin Ching, HUNG Wing Sum Angela, LAM Ngai Man, and NG
-David Ian, Group 1
+
+HUNG Tin Ching, HUNG Wing Sum Angela, LAM Ngai Man, and NG David Ian, Group 1
+
 Department of Industrial Engineering and Decision Analytics, HKUST, Hong Kong SAR.
 The order is arranged based on the alphabetical order. These authors contributed equally to this
 work.
+
+
 Abstract
 This research project investigates the development of optimal portfolio rebalancing
 strategies, focusing on the critical trade-off between maintaining target allocations
